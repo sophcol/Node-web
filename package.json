@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sophcol/node-web-server.git"
+    "url": "git+https://github.com/sophcol/Node-web.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sophcol/node-web-server/issues"
+    "url": "https://github.com/sophcol/Node-web/issues"
   },
-  "homepage": "https://github.com/sophcol/node-web-server#readme"
+  "homepage": "https://github.com/sophcol/Node-web#readme"
 }
