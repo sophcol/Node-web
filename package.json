@@ -12,10 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node views/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sophcol/Node-web.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
